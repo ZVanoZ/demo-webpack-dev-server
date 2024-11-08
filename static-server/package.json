@@ -1,0 +1,16 @@
+{
+  "name": "zvanoz-demo-webpack-dev-server-static-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "public/index.html",
+  "scripts": {
+    "dev": "webpack-dev-server --port 17080"
+  },
+  "author": "ZVanoZ",
+  "dependencies": {
+    "webpack": "^1.13.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.14.1"
+  }
+}
